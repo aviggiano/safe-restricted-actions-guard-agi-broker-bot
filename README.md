@@ -1,9 +1,5 @@
 # AGI Broker Bot: Safe-powered financial operator with [RestrictedActionsGuard](https://github.com/aviggiano/safe-restricted-owners-guard)
 
-AGI Broker Bot built on top of Eliza OS powered by the Safe wallet and  to perform only allowed swap methods
-
-Here's a compelling sci-fi storytelling version of your README:  
-
 ## _The Year is 2030. Finance is Autonomous. Humans Set the Rules._  
 
 By the dawn of the new decade, artificial intelligence had reached a pivotal moment: **true consciousness**. At the same time, crypto had become the dominant force in global finance. The two merged into a seamless ecosystem—one where **agents**, not humans, executed 99.9% of all financial operations.  
