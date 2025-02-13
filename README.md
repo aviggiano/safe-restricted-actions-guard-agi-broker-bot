@@ -42,9 +42,10 @@ Example messages:
 ## Tech stack
 
 - ElizaOS (with Teleram client)
-- Safe (with `RestrictedActionsGuard`)
+- Safe (with [`RestrictedActionsGuard`](https://github.com/aviggiano/safe-restricted-owners-guard))
 - Deployed on
-  - Arbitrum
-  - Avalanche
-  - Celo
-  - Linea
+  - [Optimism](https://app.safe.global/home?safe=oeth:0x30B8Cf2AA67E1e13A096d8838cC942Fbbd52778b)
+  - [Arbitrum](https://app.safe.global/home?safe=arb1:0x30B8Cf2AA67E1e13A096d8838cC942Fbbd52778b)
+  - [Avalanche](https://app.safe.global/home?safe=avax:0x30B8Cf2AA67E1e13A096d8838cC942Fbbd52778b)
+  - [Celo](https://app.safe.global/home?safe=celo:0x30B8Cf2AA67E1e13A096d8838cC942Fbbd52778b)
+  - [Linea](https://app.safe.global/home?safe=linea:0x30B8Cf2AA67E1e13A096d8838cC942Fbbd52778b)
